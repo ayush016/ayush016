@@ -45,11 +45,11 @@ val techLead = Developer(
 
 <div align="center">
   
-![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush016&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+<img src="https://github-readme-stats.vercel.app/api?username=ayush016&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush016&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+<img src="https://streak-stats.demolab.com?user=ayush016&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush016&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush016&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
 
 </div>
 
@@ -191,11 +191,22 @@ I write technical deep-dives about:
 ## 💼 Professional Journey
 
 ```mermaid
-graph LR
-    A[Samsung R&D<br/>2019] --> B[redBus Intern<br/>2018]
-    B --> C[redBus Engineer<br/>2019]
-    C --> D[Tech Lead<br/>2021-Present]
-    D --> E[Georgia Tech MS<br/>2025-Present]
+timeline
+    title Career Timeline
+    2016-2018 : DressUp Startup
+              : Co-founder
+    2018 : redBus Intern
+         : Automation & GPS Analytics
+    2019 : Samsung R&D Intern
+         : AppCore Team
+    2019-2021 : redBus Engineer
+              : Android Development
+    2021-Present : Tech Lead @ redBus
+                 : Leading 4 engineers
+    2025-Present : Georgia Tech
+                 : MS Computer Science
+    2026 : ???
+         : You'll get to know soon 😉
 ```
 
 ### 🎯 Current Role: Tech Lead @ redBus
@@ -211,7 +222,7 @@ graph LR
 
 <div align="center">
 
-![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush016&theme=react-dark&hide_border=true&area=true)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=ayush016&theme=react-dark&hide_border=true&area=true" alt="Contribution Graph" />
 
 </div>
 
