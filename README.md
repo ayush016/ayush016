@@ -281,7 +281,7 @@ Looking to collaborate on:
 
 **Agentic Systems** • **Multi-step Reasoning** • **Structured Workflows** • **Android Internals**
 
-![Profile Views](https://komarev.com/ghpvc/?username=ayush016&color=blueviolet&style=for-the-badge)
+![Profile Views](https://img.shields.io/badge/Profile_Views-2189-blueviolet?style=for-the-badge)
 
 ⭐️ From [ayush016](https://github.com/ayush016) | Building the future, one commit at a time
 
