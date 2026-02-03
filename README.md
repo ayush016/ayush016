@@ -1,51 +1,277 @@
-# Ayush Shrivastava
+<div align="center">
+  
+# 👨‍💻 Ayush Shrivastava
 
-Tech Lead at redBus, building Android systems at scale. I work on problems that sit at the intersection of mobile architecture, developer tooling, and increasingly, AI-powered automation. Most of my time goes into designing resilient systems, optimizing CI/CD pipelines, and exploring how LLMs can augment engineering workflows.
+### Tech Lead @ redBus | Android Architect | AI Enthusiast
 
-## What I Work On
+[![Website](https://img.shields.io/badge/Website-ayush016.github.io-blue?style=for-the-badge&logo=google-chrome)](https://ayush016.github.io/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushshrivastava016/)
+[![Medium](https://img.shields.io/badge/Medium-Follow-12100E?style=for-the-badge&logo=medium)](https://medium.com/@ayush.shrivastava016)
+[![GitHub](https://img.shields.io/github/followers/ayush016?style=for-the-badge&logo=github)](https://github.com/ayush016)
 
-**Android Architecture & Systems**  
-Deep experience with Jetpack Compose, custom rendering pipelines, and performance optimization for apps serving 50M+ users. I've built everything from real-time bus tracking systems to shader-based visual effects using OpenGL ES and AGSL.
-
-**Developer Experience & Tooling**  
-Established CI/CD infrastructure from scratch (Jenkins, GitLab) that reduced release cycles by 80%. I care about making builds fast, deployments predictable, and developer feedback loops tight.
-
-**AI & Agentic Systems**  
-Experimenting with LangChain, LangGraph, and structured data extraction. Built ParserGPT—an LLM-powered tool that converts messy web content into clean CSVs, featured by the LangChain team. Interested in how agents can handle real-world parsing, reasoning, and workflow automation.
-
-**Graphics & Rendering**  
-Authored OpenGLShaderKit, an Android library combining OpenGL ES, AGSL, and ARCore for visual effects in Compose. Covers liquid glass effects, parallax, magnifiers, and AR integration—useful for anyone building custom UI beyond what the framework provides.
-
-## Selected Work
-
-**[OpenGLShaderKit](https://github.com/ayush016/OpenGLShaderKit)**  
-Production-ready Android library for shader-based effects and AR experiences in Jetpack Compose. Demonstrates low-level graphics knowledge, API design, and real-world performance constraints.
-
-**[Handwritten](https://github.com/ayush016/Handwritten)**  
-Converts digital text into handwriting. Built with Flask, hosted on GCP. 30K+ downloads, top 3 search result for "handwritten" on Play Store. Shows end-to-end ownership: backend, deployment, user acquisition.
-
-**[ParserGPT](https://medium.com/@ayush.shrivastava016)**  
-AI-powered web scraper that turns unstructured HTML into structured CSVs using LangChain abstractions. Featured by LangChain on LinkedIn/Twitter for practical applicability. Explores semantic parsing, schema alignment, and LLM reasoning limits.
-
-**[RoomJetpackCompose](https://github.com/ayush016/RoomJetpackCompose)**  
-Clean architecture reference for CRUD operations with Room + Kotlin Flow + Compose. Useful for teams adopting modern Android patterns.
-
-## Writing
-
-I write technical deep-dives on [Medium](https://medium.com/@ayush.shrivastava016)—mostly about Android internals, architecture decisions, and AI tooling. The goal is to explain how things work under the hood, not just how to use them. If you're debugging a complex system or evaluating tradeoffs, you'll find something useful.
-
-## Background
-
-Currently Tech Lead at redBus (MakeMyTrip), where I manage a team of 4 engineers and own technical direction for features across Android. Delivered 50+ large-scale features over the past few years, from new business verticals to payment integrations. Pursuing a part-time MS in Computer Science at Georgia Tech while working full-time.
-
-Previously interned at Samsung R&D (AppCore team) and redBus, where I built automation tools and GPS device quality analysis systems that influenced hardware upgrade decisions.
-
-## Currently
-
-Doubling down on agentic systems and exploring how LLMs can move beyond chat interfaces into structured workflows—parsing, data transformation, and multi-step reasoning. Also deepening knowledge in distributed systems and compiler design through grad coursework.
-
-Open to collaborating on projects that involve production-scale Android challenges, developer tooling, or practical AI applications. If you're working on something in this space, let's talk.
+</div>
 
 ---
 
-[Website](https://ayush016.github.io/) • [LinkedIn](https://www.linkedin.com/in/ayushshrivastava016/) • [Medium](https://medium.com/@ayush.shrivastava016)
+## 🚀 About Me
+
+```kotlin
+val techLead = Developer(
+    name = "Ayush Shrivastava",
+    role = "Tech Lead - Android",
+    company = "redBus (MakeMyTrip)",
+    location = "Bangalore, India",
+    education = "MS Computer Science @ Georgia Tech (In Progress)",
+    
+    currentFocus = listOf(
+        "Building Android systems at scale (50M+ users)",
+        "AI-powered developer tooling",
+        "Agentic systems with LangChain/LangGraph",
+        "Graphics programming with OpenGL ES & AGSL"
+    ),
+    
+    achievements = mapOf(
+        "Team Management" to "Leading 4 engineers",
+        "Features Delivered" to "50+ large-scale features",
+        "CI/CD Impact" to "80% faster release cycles",
+        "App Downloads" to "30K+ (Handwritten app)"
+    )
+)
+```
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  
+![Ayush's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ayush016&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=ayush016&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=ayush016&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F)
+
+</div>
+
+---
+
+## 🛠️ Tech Stack
+
+### 💻 Languages
+![Kotlin](https://img.shields.io/badge/Kotlin-7F52FF?style=for-the-badge&logo=kotlin&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
+
+### 📱 Mobile & Framework
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-4285F4?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+![OpenGL](https://img.shields.io/badge/OpenGL-5586A4?style=for-the-badge&logo=opengl&logoColor=white)
+![ARCore](https://img.shields.io/badge/ARCore-4285F4?style=for-the-badge&logo=google&logoColor=white)
+
+### 🤖 AI & ML
+![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=chainlink&logoColor=white)
+![OpenAI](https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white)
+![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+
+### 🔧 DevOps & Tools
+![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=for-the-badge&logo=jenkins&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=for-the-badge&logo=gitlab&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+
+### ☁️ Cloud & Backend
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+![Room](https://img.shields.io/badge/Room_DB-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+---
+
+## 🎯 What I Do
+
+<table>
+<tr>
+<td width="50%">
+
+### 🏗️ Android Architecture
+- Production apps serving **50M+ users**
+- Jetpack Compose & modern Android
+- Custom rendering with OpenGL ES
+- Performance optimization at scale
+
+</td>
+<td width="50%">
+
+### 🤖 AI & Agentic Systems
+- LangChain/LangGraph integrations
+- Structured data extraction
+- **Featured by LangChain team**
+- LLM-powered automation
+
+</td>
+</tr>
+<tr>
+<td width="50%">
+
+### 🛠️ Developer Tooling
+- Built CI/CD from scratch
+- **80% faster release cycles**
+- Jenkins & GitLab pipelines
+- Developer experience optimization
+
+</td>
+<td width="50%">
+
+### 🎨 Graphics & Rendering
+- OpenGL ES & AGSL shaders
+- ARCore integrations
+- Custom visual effects library
+- Real-time rendering systems
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🏆 Featured Projects
+
+<div align="center">
+
+| 🚀 Project | ⭐ Stars | 📝 Description | 🔗 Link |
+|-----------|---------|----------------|---------|
+| **OpenGLShaderKit** | ![Stars](https://img.shields.io/github/stars/ayush016/OpenGLShaderKit?style=social) | Android library for shader effects & AR in Compose | [View →](https://github.com/ayush016/OpenGLShaderKit) |
+| **Handwritten** | ![Stars](https://img.shields.io/github/stars/ayush016/Handwritten?style=social) | Text to handwriting converter • 30K+ downloads | [View →](https://github.com/ayush016/Handwritten) |
+| **RoomJetpackCompose** | ![Stars](https://img.shields.io/github/stars/ayush016/RoomJetpackCompose?style=social) | Clean architecture with Room + Flow + Compose | [View →](https://github.com/ayush016/RoomJetpackCompose) |
+
+</div>
+
+### 📦 More Projects
+
+<details>
+<summary>Click to expand</summary>
+
+#### 🎯 **ParserGPT** (Featured by LangChain)
+AI-powered web scraper converting messy HTML to structured CSVs using LangChain abstractions. Featured on LangChain's LinkedIn/Twitter.
+- **Tech:** Python, LangChain, LLMs
+- **Impact:** Real-world semantic parsing solution
+
+#### 📱 **Virtual OS for Visually Impaired**
+Accessibility-focused web application with voice assistant, built using HCI principles
+- **Tech:** Java, Servlets, Web Scraping
+- **Impact:** Making technology accessible
+
+#### 🩸 **Blood Bank Management System**
+Centralized database and web portal for blood donors and healthcare organizations
+- **Tech:** PHP, JavaScript, MySQL
+- **Impact:** Healthcare logistics optimization
+
+</details>
+
+---
+
+## ✍️ Latest Writing
+
+<div align="center">
+
+[![Medium](https://img.shields.io/badge/📝_Read_My_Articles-12100E?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ayush.shrivastava016)
+
+</div>
+
+I write technical deep-dives about:
+- 🏗️ Android internals & architecture patterns
+- 🤖 AI tooling & agentic systems  
+- ⚡ Performance optimization techniques
+- 🔧 Developer productivity & tooling
+
+**Recent Highlight:** ParserGPT architecture explanation - featured by LangChain team
+
+---
+
+## 💼 Professional Journey
+
+```mermaid
+graph LR
+    A[Samsung R&D<br/>2019] --> B[redBus Intern<br/>2018]
+    B --> C[redBus Engineer<br/>2019]
+    C --> D[Tech Lead<br/>2021-Present]
+    D --> E[Georgia Tech MS<br/>2025-Present]
+```
+
+### 🎯 Current Role: Tech Lead @ redBus
+- 👥 Managing team of 4 engineers
+- 🚀 Delivered 50+ large-scale features
+- 📊 50M+ active users
+- ⚡ 80% improvement in release cycles
+- 🏆 Multiple awards: Rookie of the Year, Trailblazer, Titan of the Quarter
+
+---
+
+## 📈 Contribution Activity
+
+<div align="center">
+
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=ayush016&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## 🎓 Education & Learning
+
+<table>
+<tr>
+<td>
+
+**🎓 Georgia Institute of Technology**  
+MS in Computer Science (Part-time)  
+*2025 - Present*
+
+Focus: Distributed Systems, Compilers
+
+</td>
+<td>
+
+**🎓 LNMIT Jaipur**  
+B.Tech in Computer Engineering  
+*2015 - 2019*
+
+Honors: Rajasthan Hackathon Finalist
+
+</td>
+</tr>
+</table>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+Looking to collaborate on:
+- 📱 Production-scale Android challenges
+- 🛠️ Developer tooling & productivity
+- 🤖 Practical AI applications & agentic systems
+- 🎨 Graphics programming & custom UI
+
+### 💬 Reach Out
+
+[![Email](https://img.shields.io/badge/Email-ayush.shrivastava016%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:ayush.shrivastava016@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Message_Me-0077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/ayushshrivastava016/)
+[![Twitter](https://img.shields.io/badge/Twitter-DM_Open-1DA1F2?style=for-the-badge&logo=twitter)](https://twitter.com)
+
+</div>
+
+---
+
+<div align="center">
+  
+### 💭 Currently Exploring
+
+**Agentic Systems** • **Multi-step Reasoning** • **Structured Workflows** • **Android Internals**
+
+![Profile Views](https://komarev.com/ghpvc/?username=ayush016&color=blueviolet&style=for-the-badge)
+
+⭐️ From [ayush016](https://github.com/ayush016) | Building the future, one commit at a time
+
+</div>
