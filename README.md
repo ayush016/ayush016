@@ -41,20 +41,6 @@ val techLead = Developer(
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-  
-<img src="https://github-readme-stats.vercel.app/api?username=ayush016&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F&icon_color=F8D866" alt="GitHub Stats" />
-
-<img src="https://streak-stats.demolab.com?user=ayush016&theme=radical&hide_border=true&background=0D1117&stroke=F85D7F&ring=F85D7F&fire=F8D866&currStreakLabel=F8D866" alt="GitHub Streak" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ayush016&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&title_color=F85D7F" alt="Top Languages" />
-
-</div>
-
----
-
 ## 🛠️ Tech Stack
 
 ### 💻 Languages
